@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+pyautogui
+numpy
+pillow
+ttkthemes
+requests
+SpeechRecognition
+pyttsx3
+pyaudio
